@@ -20,6 +20,6 @@ A recent graduate with a Master of Computer Applications (MCA) degree in Compute
 - ⚡ Fun fact: Why do programmers prefer dark mode?Because light attracts bugs!
 
 ## Examples of Work
-![Description]([https://github.com/yourusername/yourrepository/blob/master/yourgif.gif](https://github.com/SachinChikodi8/SachinChikodi8/blob/main/1708549268265-ezgif.com-video-to-gif-converter.gif?raw=true))
+![Description](https://github.com/yourusername/yourrepository/blob/master/yourgif.gif](https://github.com/SachinChikodi8/SachinChikodi8/blob/main/1708549268265-ezgif.com-video-to-gif-converter.gif)
 
 
