@@ -8,8 +8,8 @@ A recent graduate with a Master of Computer Applications (MCA) degree in Compute
 * ⚛ React
 * 💻 HTML, CSS, JS
 * 💻 Node.js, Mongodb
-* 
 
+## Working
 - 🌱 I’m currently learning Coud and Devops 
 - 👯 I’m looking to collaborate on industrial projects. 
 - 💬 Ask me about MERN Stack 
