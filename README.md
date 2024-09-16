@@ -4,7 +4,11 @@
 a recent graduate with a Master of Computer Applications (MCA) degree in Computer Science. I am passionate about software development and am eager to embark on a rewarding career in the tech industry. With a solid foundation in web development, I am enthusiastic about contributing to innovative projects and leveraging my skills to drive technological advancements.
 
 
-Skills: HTML/CSS/JAVASCRIPT/REACT.JS/MONGODB/NODE.JS/MYSQL
+## Skills and Experience
+* ⚛ React
+* 💻 HTML, CSS, JS
+* 💻 Node.js, Mongodb
+* 
 
 - 🌱 I’m currently learning Coud and Devops 
 - 👯 I’m looking to collaborate on industrial projects. 
