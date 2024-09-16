@@ -17,6 +17,9 @@ A recent graduate with a Master of Computer Applications (MCA) degree in Compute
 - 💬 Ask me about MERN Stack 
 - 📫 How to reach me: sachinchikodi8@gmail.com 
 - 😄 Pronouns: Sachin 
-- ⚡ Fun fact: Why do programmers prefer dark mode?Because light attracts bugs! 
+- ⚡ Fun fact: Why do programmers prefer dark mode?Because light attracts bugs!
+
+## Examples of Work
+<img src="https://github.com/SachinChikodi8/SachinChikodi8/blob/main/1708549268265-ezgif.com-video-to-gif-converter.gif?raw=true" width="512" > 
 
 
