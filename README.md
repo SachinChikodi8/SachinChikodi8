@@ -14,7 +14,7 @@ A recent graduate with a Master of Computer Applications (MCA) degree in Compute
 ## What I Do
 - 🌱 I’m currently learning Cloud and Devops.
 - 👯 I’m looking to collaborate on industrial projects. 
-- 💬 Ask me about MERN Stack.
+- 💬 Ask me about Full Stack
 - 📫 How to reach me: sachinchikodi8@gmail.com 
 - 😄 Pronouns: Sachin 
 - ⚡ Fun fact: Why do programmers prefer dark mode?Because light attracts bugs!
