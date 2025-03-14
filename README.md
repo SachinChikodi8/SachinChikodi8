@@ -5,16 +5,17 @@ A recent graduate with a Master of Computer Applications (MCA) degree in Compute
 
 
 ## Skills and Experience
-* ⚛ React
-* 🍃 Node.js, Mongodb
+* ☕ Java
+* 🍃 Spring Boot
+* 🌠 Hibernate
 * 💻 HTML, CSS, JS
 * 🐍 Python
-* ☕ Java
+
 
 ## What I Do
 - 🌱 I’m currently learning Cloud and Devops.
 - 👯 I’m looking to collaborate on industrial projects. 
-- 💬 Ask me about Full Stack
+- 💬 Ask me about Java Full Stack
 - 📫 How to reach me: sachinchikodi8@gmail.com 
 - 😄 Pronouns: Sachin 
 - ⚡ Fun fact: Why do programmers prefer dark mode?Because light attracts bugs!
